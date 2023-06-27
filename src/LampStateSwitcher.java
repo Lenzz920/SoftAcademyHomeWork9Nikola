@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface LampStateSwitcher {
+public interface LampStateSwitcher {
+    void turnLampOn();
+    void turnLampOff();
 }
